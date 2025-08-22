@@ -22,12 +22,12 @@ module.exports.languages = {
  "en": {
  "invaildNumber": "%1 is not an invalid number",
  "cancelSuccess": "Refused %1 thread!",
- "notiBox": "ᵁᴸᴸ⁴✅ | Group approved successfully by 𝗥𝗮𝗵𝗮𝘁 Islam😙\n\n👇আমার বস 👇 কোন সাহায্য লাগলে আমার বসকে বলতে পারো 🙂😘 m.me/61561511477968",
- "approveSuccess": "Approved successfully %1 threads!",
+ "notiBox": "✅ Group approved successfully by 𝗥𝗮𝗵𝗮𝘁 Islam😙\n\n👇আমার বস 👇\n কোন সাহায্য লাগলে আমার বসকে বলতে পারো 🙂😘 m.me/61561511477968",
+ "approveSuccess": "𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘀𝘀 Approved successfully %1 threads!",
 
  "cantGetPendingList": "Can't get the pending list!",
  "returnListPending": "»「PENDING」«❮ The whole number of threads to approve is: %1 thread ❯\n\n%2",
- "returnListClean": "「PENDING」There is no thread in the pending list"
+ "returnListClean": "「PENDING」𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘀𝘀 কোন গ্রুপে 𝗕𝗼𝘁 pending নাই😘"
  }
 }
 
