@@ -22,7 +22,7 @@ module.exports.languages = {
  "en": {
  "invaildNumber": "%1 is not an invalid number",
  "cancelSuccess": "Refused %1 thread!",
- "notiBox": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 × • 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁 | ᵁᴸᴸ⁴ˢᴴ Connected Successfully!\nUse /help for more info :>",
+ "notiBox": "ᵁᴸᴸ⁴✅ | Group approved successfully by 𝗥𝗮𝗵𝗮𝘁 Islam😙\n\n👇আমার বস 👇 কোন সাহায্য লাগলে আমার বসকে বলতে পারো 🙂😘 m.me/61561511477968",
  "approveSuccess": "Approved successfully %1 threads!",
 
  "cantGetPendingList": "Can't get the pending list!",
